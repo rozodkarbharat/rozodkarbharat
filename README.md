@@ -8,7 +8,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rozodkarbharat@gmail.com**
-- 📫 Check <a target="_blank" href="https://drive.google.com/file/d/1h-ZMWtLJiSJ2uGesKrio8VrdN_b_-BG9/view?usp=sharing">My Resume</a>
+- 📫 Check <a target="_blank" href="https://drive.google.com/file/d/15tL5D8PFMotoV9NglfXGu8pdRq2vsBbE/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
