@@ -8,7 +8,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rozodkarbharat@gmail.com**
-- 📫 How to reach me <a href="https://drive.google.com/drive/u/1/my-drive">My Resume</a>
+- 📫 How to reach me <a href="https://drive.google.com/file/d/1bFhxG82-QCMB08jMbMSoJcx161g-T3oM/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
