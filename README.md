@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Bharat Rozodkar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <p>Full stack developer specialized in MERN with knowledge of DSA.
-Good at skills seeking to start a career in a challenging environment to learn and grow as a developer. Wants to contribute to an organization with the best of knowledge and skills.</p>
+Good at MERN seeking to start a career in a challenging environment to learn and grow as a developer. Wants to contribute to an organization with the best of knowledge and skills.</p>
 
 - 💬 Ask me about **MERN**
 
