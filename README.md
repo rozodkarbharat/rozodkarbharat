@@ -10,7 +10,7 @@ Seeking to start a career in a challenging environment to learn and grow as a de
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rozodkarbharat@gmail.com**
-- 📫 Check <a target="_blank" href="https://drive.google.com/file/d/15tL5D8PFMotoV9NglfXGu8pdRq2vsBbE/view?usp=sharing">My Resume</a>
+- 📫 Check <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1GvWYFVoAUcHb3-C9Yapf_5g4ctydtS6t">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
